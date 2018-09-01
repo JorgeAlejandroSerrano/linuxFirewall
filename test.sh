@@ -39,4 +39,4 @@ exit
 esac
 fi
 
-#Autores: Jorge Alegandro Serrano y Edivaldo Gómez
+#Autores: Jorge Alejandro Serrano y Edivaldo Gómez
