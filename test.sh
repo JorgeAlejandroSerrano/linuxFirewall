@@ -2,7 +2,6 @@
 
 touch white | touch black
 
-	
 id=$(dmesg | tail -n 20 | egrep serial | awk '{print $5}')
 cat /etc/mtab | grep media >> /dev/null
 
@@ -40,3 +39,4 @@ exit
 esac
 fi
 
+#Autores: Jorge Alegandro Serrano y Edivaldo Gómez
